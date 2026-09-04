@@ -61,6 +61,6 @@ Full-stack resume generator with JWT auth, customizable PDF generation, and real
 
 ## 📫 Reach me
 
-[Portfolio](https://kethansai.vercel.app) · [LinkedIn]([https://www.linkedin.com/in/kethan-sai-koneru-64b722236/]) · [Kaggle](https://www.kaggle.com/kethansaikoneru) · kethan1701@gmail.com
+[Portfolio](https://kethansai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/kethan-sai-koneru-64b722236/) · [Kaggle](https://www.kaggle.com/kethansaikoneru) · kethan1701@gmail.com
 
 *B.Tech IT, VNR VJIET · Hyderabad, India*

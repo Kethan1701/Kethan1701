@@ -41,21 +41,22 @@ Tuned XGBoost on real-world accident data - **top 11%**, driven by feature engin
 
 ## 📦 Projects
 
-**Lung Cancer Diagnosis** · PyTorch, AlexNet, Medical Imaging
+**Lung Cancer Diagnosis**: PyTorch, AlexNet, Medical Imaging
 AlexNet classifier on a 500K+ datapoint imaging dataset 89.65% accuracy (P 0.92 / R 0.85 / F1 0.80) with image-reconstruction preprocessing.
 
-**Resume Builder** · FastAPI, React, Vite
+**Resume Builder**: FastAPI, React, Vite
 Full-stack resume generator with JWT auth, customizable PDF generation, and real-time preview.
 
 ---
 
 ## ⚙️ Stack
 
-**Languages** Python · C++ · Java · SQL · JavaScript
-**ML/AI** PyTorch · Hugging Face Transformers · vLLM · Unsloth (QLoRA) · TensorFlow/Keras · XGBoost · scikit-learn
-**DL & NLP** CNNs · Transformers · LLM fine-tuning · RAG · BM25 · multilingual embeddings
-**Web & Backend** React · Node · Express · FastAPI · Vite · Supabase
-**Tools** Git · Docker · CMake · Linux · Jupyter
+
+- **Languages**: Python, C++, Java, SQL, JavaScript
+- **ML/AI**: PyTorch, Hugging Face, Transformers, vLLM, Unsloth QLoRA, TensorFlow/Keras, XGBoost, scikit-learn
+- **DL & NLP**: CNNs, Transformers, LLM fine-tuning, RAG, BM25, multilingual embeddings
+- **Web & Backend**: React, Node, Express, FastAPI, Vite, Supabase
+- **Tools**: Git · Docker, CMake, Linux, Jupyter
 
 ---
 

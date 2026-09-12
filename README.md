@@ -1,4 +1,4 @@
-# Hi, I'm Kethan Sai Koneru 👋
+# Hi, I'm Kethan 👋
 
 **AI/ML engineer building end-to-end autonomous driving systems** from VLM-based navigation to LLM fine-tuning. OpenCV open source contributor. Top 11% on Kaggle.
 
